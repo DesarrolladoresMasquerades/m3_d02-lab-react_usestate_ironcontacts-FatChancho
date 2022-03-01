@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 2rem;
 }
 
 .App-logo {
@@ -11,6 +12,21 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+table{
+  table-layout: fixed;
+  width: 100%;
+  background-color: #282c34;
+}
+.tr{
+
+  box-shadow: 5px 5px 5px 0 #61dafb;
+  
+}
+table img{
+  width: 150px;
+  border-radius: 15px;
+  margin: 2rem;
 }
 
 .App-header {
